@@ -5,3 +5,5 @@ overload <<
 #静态库  动态库
 //新特性 侯捷   string format
 
+
+this is shj_wang changed
